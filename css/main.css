@@ -1,0 +1,22 @@
+body {
+    background-color: yellow;
+    font-family:sans-serif;
+}
+
+.container {
+    padding-top: 200px;
+    margin: auto;
+    width: 300px;
+    text-align: center;
+}
+
+form {
+    text-align: left;
+}
+
+input,
+textarea {
+    width: 100%;
+    border: 4px solid blue;
+    border-radius: 10px;
+}
