@@ -6,3 +6,20 @@ header {
     padding-top: 50px;
     text-align: center;
 }
+
+main {
+    text-align: center;
+    background-color: lightgreen;
+    width: 50%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    float: left;
+}
+
+aside {
+    text-align: center;
+    background-color: purple;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-size: 10px;
+}
