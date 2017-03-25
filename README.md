@@ -1,4 +1,5 @@
 ## Repo Link
+[Github Repository](https://github.com/kellymarton/hw_listeners_marton_kelly)
 
 ## Resources
 
@@ -8,3 +9,4 @@ Reviewed basics of tagging
 I reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
+This assignment was challenging and extremely time consuming but I learned a lot!
